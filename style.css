@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+
+
+p:hover{
+
+ 
+    color: aqua;
+}
+.pn,.vt,.sr,.ct,.pt{
+    color: orange;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 2px;
+    margin: 40px;
+   
+
+}
